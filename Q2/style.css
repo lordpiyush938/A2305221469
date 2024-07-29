@@ -1,0 +1,15 @@
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.product-card, .product-detail {
+    margin: 20px;
+    width: 300px;
+}
+
+.all-products-page, .product-page {
+    padding: 20px;
+}
